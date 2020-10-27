@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Task Workout</string>
+    <string name="logo">Logo Task Workout</string>
+    <string name="correo_electronico">Correo Electronico</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="messajeRedes">Inicia Sesión con tus Redes Sociales</string>
+    <string name="Google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="olvidadecontraseña">Olvidades tu Contraseña ??</string>
+    <string name="crear_cuenta">Crear Cuenta</string>
+    <string name="nombre">Nombre  Completo</string>
+    <string name="Telefono">Telefono</string>
+    <string name="peso">Peso (Kg)</string>
+    <string name="altura">Altura (cm)</string>
+    <string name="verificacontraseña">Verificar Contraseña</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
